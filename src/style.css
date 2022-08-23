@@ -1,0 +1,12 @@
+.nav-bar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.list-color {
+  background-color: #f08c00 !important;
+}
+body {
+  background-color: rgba(202, 196, 197, 0.866);
+  color: darkblue;
+}
