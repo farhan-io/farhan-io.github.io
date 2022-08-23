@@ -38,7 +38,7 @@ const App = () => {
 
   return (
     <div className="container mt-5 shadow p-3 mb-5  bg-light">
-      <h1 className="text-center">Todo List</h1>
+      <h1 className="text-center">Title changed</h1>
       <Input newTodos={updateTask} />
       {todos.length === 0 ? (
         <p className="f2 text-light">No items found</p>
